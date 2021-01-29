@@ -1,0 +1,56 @@
+body {
+    background-color: #252525;
+}
+
+.firstintro {
+    color: white;
+}
+
+.heading {
+    background-image: none;
+    background-color: #6930c3;
+    color: white;
+}
+
+.who {
+    color: white;
+}
+
+.firstdesc {
+    color: white;
+}
+
+.middle {
+  background: #6930c3;
+  background-image: none;
+}
+
+.middle h5 {
+  color: white;
+}
+
+.card-body {
+  background-color: #6930c3;
+  color: white;
+}
+
+.card-body h5 {
+  color: white;
+}
+
+.bottom h1 {
+    color:white;
+}
+
+.reasons li {
+    color: #64dfdf;
+}
+
+.separator {
+    background-image: none;
+    background-color: #6930c3;
+}
+
+.footer {
+    background-color: #6930c3;
+}
